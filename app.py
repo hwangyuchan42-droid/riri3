@@ -1,4 +1,4 @@
-import os, sys, re, math, random, pygame, time
+import os, sys, re, math, random, time
 import numpy as np
 
 BASE = os.path.dirname(os.path.abspath(__file__))
